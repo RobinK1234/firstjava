@@ -4,21 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0aaafe21-8599-44a7-843f-6b579bc1d9ff" name="Changes" comment="Week 4,5,6">
-      <change afterPath="$PROJECT_DIR$/src/week7/Container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/Dictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/Ex04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/Ex07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/Suitcase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/TextUserInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/Thing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/CivilService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/Ex010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/Ex09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/MilitaryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/NationalService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/RegistrationPlate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/VehicleRegister.java" afterDir="false" />
+    <list default="true" id="0aaafe21-8599-44a7-843f-6b579bc1d9ff" name="Changes" comment="Week 7,8">
+      <change afterPath="$PROJECT_DIR$/src/Week10/DeluxeBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week10/Hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week10/HealthyBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/Ex17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/Ex21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/mooc/logic/ApplicationLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/mooc/ui/TextUserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/mooc/ui/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/textfile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,10 +126,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex29" />
         <item itemvalue="Application.Ex70" />
         <item itemvalue="Application.Ex53" />
         <item itemvalue="Application.Ex50" />
-        <item itemvalue="Application.Ex29" />
         <item itemvalue="Application.week2.Ex26" />
       </list>
     </recent_temporary>
@@ -147,7 +144,8 @@
       <updated>1694154067515</updated>
       <workItem from="1694154068765" duration="1105000" />
       <workItem from="1695638180889" duration="3586000" />
-      <workItem from="1697528968013" duration="5577000" />
+      <workItem from="1697528968013" duration="6122000" />
+      <workItem from="1701326251855" duration="1601000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -173,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697532497897</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Week 7,8">
+      <option name="closed" value="true" />
+      <created>1697536350866</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697536350866</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +189,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="Week 1,2,3 and half of 4" />
     <MESSAGE value="Week 4,5,6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 4,5,6" />
+    <MESSAGE value="Week 7,8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 7,8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
